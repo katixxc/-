@@ -50,12 +50,12 @@ header div {
     align-items: center;
 }
 .bob{
-    color: #6E8856;
+    color: #052400;
     text-align: center;
     padding-top: 30px;
 }
 .container{
-    background: #DCE5E2 top center / 100% url(https://i.pinimg.com/564x/6a/28/4f/6a284f0f9ca4e88c09217df670e7f337.jpg);
+    background: #DCE5E2 top center / 100% url(https://i.pinimg.com/564x/40/16/73/401673fee584f4a1a316a4461d2c8f53.jpg);
     width: 100%;
     height: 300px;
     border-radius: 5px;
@@ -73,24 +73,25 @@ header div {
     height: 50px;
     border-radius: 5px;
     border: none;
-    background-color: #6E8856;
-    color: #1A2C1D;
+    background-color: #3b7931;
+    color: #ffb9b8;
 }
 .bth-buy-ticket:hover {
     background-color: #1A2C1D;
-    color: #6E8856;
+    color: #e47676;
 }
 .kevin{
-    background: #DCE5E2 top center / 100% url(https://i.pinimg.com/564x/1d/fc/1e/1dfc1e786210c72c78f4d7d659a1e50a.jpg);
+    background: #DCE5E2 top center  / 100% url(https://i.pinimg.com/564x/4b/ee/3b/4bee3b88416c05b662d91d9bc34f332f.jpg);
     width: 100%;
     height: 100%;
     border-radius: 5px;;
 }
+
 .bob1{
-    color: #000f03;
+    color: #052400;
 }
 .gru{
-    color: #000f03;
+    color: #052400;
 }
 
 header nav a {
@@ -132,30 +133,27 @@ main p {
 }
 
 .bob2{
-    color:#d7e6ca
+    color:#052400;
 }
 .gru1{
-    color: #d7e6ca ;
+    color: #052400 ;
+}
+.lotr{
+    text-align: center;
+    padding-left: 40px;
 }
 .hotd{
-    background: #DCE5E2 top center / 100% url(https://i.pinimg.com/564x/e5/53/6a/e5536a368e9840de165b8b0d0fae634a.jpg);
+    text-align: center;
+    border: none;
+    width: 250px;
+    height: 200px;
+    border-radius: 5px;
+    background: #DCE5E2 top center / 100% url(https://i.pinimg.com/564x/84/46/97/844697ab9618fbe992b6ba96ec76e35d.jpg);
 }
 .bob3{
     color: #1A2C1D;
 }
 
-.services button {
-    background-color: #f44336;
-    background-color: #036280;
-    color: white;
-    border: none;
-    border-radius: 5px;
-}
-
-.services button:hover {
-    background-color: #e7352b;
-    background-color: #012E4A;
-}
 
 footer {
     background-color: #d7e6ca;
