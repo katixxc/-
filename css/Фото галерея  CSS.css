@@ -3,7 +3,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: #6E8856;
+    background-color: #ffffff;
     }
     header {
     background-color: #d7e6ca;
@@ -45,14 +45,15 @@ body {
     color: #1A2C1D;
     }
     .cool{
-    width: 280px;
-    height: 420px;
+        width: 200px;
+        height: 300px;
     align-items: center;
     }
     .card{
-    height: 1270px;
+    height: 100%;
     padding: 28px;
-    align-items: self-start;
+    align-content: center;
+    column-count: 4;
     }
     .card:hover{
     background: #DCE5E2 top center url(https://i.pinimg.com/564x/03/24/31/032431b2db9b93e97bf6e14663767013.jpg);
@@ -89,3 +90,4 @@ body {
     footer ul li a:hover {
     text-decoration: underline;
     }
+    
